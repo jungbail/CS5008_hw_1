@@ -1,6 +1,6 @@
 /**
- * Student Name:
- * Semester:
+ * Student Name: Bailey Jung
+ * Semester: Spring 2026
  * 
  * 
  * This is a sample program that you can use to test your c setup/config.
